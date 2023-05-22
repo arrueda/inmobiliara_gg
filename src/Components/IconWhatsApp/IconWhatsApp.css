@@ -1,0 +1,11 @@
+.whatsapp_icon{
+    position: fixed;
+    right: 2%;
+    bottom: 69%;
+    z-index: 1;
+    width: 5%;
+}
+
+.whatsapp_icon:hover{
+    opacity: 0.6;
+}
